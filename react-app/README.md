@@ -24,7 +24,7 @@ A modern React.js frontend for the Tindo food delivery application.
 2. **Create .env File**
    Create a `.env` file in the `react-app` directory with:
    ```
-   REACT_APP_API_URL=https://food-5cza.onrender.com
+   REACT_APP_API_URL=https://food-2-z0if.onrender.com
    ```
 
 3. **Start Development Server**
